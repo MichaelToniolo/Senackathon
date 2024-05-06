@@ -1,0 +1,185 @@
+body{
+    background-color: rgb(24, 24, 24);
+}
+.titulo{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    color: rgb(255, 143, 63);
+    font-size: 40px;
+    margin-bottom: 100px;
+    font-family: 'Technology', sans-serif;
+    
+    
+}
+.titulo text{
+    color: rgb(24, 24, 24);
+    animation: underline 1.0s linear infinite;
+    text-decoration: underline;
+
+}
+
+@keyframes underline {
+    0% {
+      text-decoration-color: transparent;
+      font-family: 'Technology', sans-serif;
+      
+    }
+    50% {
+      text-decoration-color:  rgb(255, 143, 63);
+      font-family: 'Technology', sans-serif;
+    }
+    100% {
+      text-decoration-color: transparent;
+      font-family: 'Technology', sans-serif;
+    }
+  }
+.bio-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    font-family: 'Zuma', sans-serif;
+                                                   
+}
+.bio-container:hover{
+    opacity: .7px;
+}
+.bio1{
+    /* QUADRO */
+    background-color: rgb(255, 73, 143);
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    /* TEXTO */
+    color: black;
+    font-size: 30px;
+    margin: 0px 50px 100px 50px;
+    
+}
+/* ICONE OU DESIGN DA CAIXA DA BIO*/
+.bio1 img{
+    display: flex;
+    align-items: start;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.bio2{
+    /* QUADRO */
+    background-color: rgb(87, 255, 93);
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    /* TEXTO */
+    color: black;
+    font-size: 30px;
+    margin: 0px 50px 100px 50px;
+    
+}
+/* ICONE OU DESIGN DA CAIXA DA BIO*/
+.bio2 img{
+    display: flex;
+    align-items: start;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.bio3{
+    /* QUADRO */
+    background-color: rgb(0, 213, 255);
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    /* TEXTO */
+    color: black;
+    font-size: 30px;
+    margin: 0px 50px 100px 50px;
+    
+}
+/* ICONE OU DESIGN DA CAIXA DA BIO*/
+.bio3 img{
+    display: flex;
+    align-items: start;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.bio4{
+    /* QUADRO */
+    background-color: rgb(255, 204, 0);
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    /* TEXTO */
+    color: black;
+    font-size: 30px;
+    margin: 0px 50px 100px 50px;
+}
+/* ICONE OU DESIGN DA CAIXA DA BIO*/
+.bio4 img{
+    display: flex;
+    align-items: start;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.bio5{
+    /* QUADRO */
+    background-color: rgb(0, 106, 255);
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    /* TEXTO */
+    color: black;
+    font-size: 30px;
+    margin: 0px 50px 100px 50px;
+    
+}
+/* ICONE OU DESIGN DA CAIXA DA BIO*/
+.bio5 img{
+    display: flex;
+    align-items: start;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+
+.bio6{
+    /* QUADRO */
+    background-color: rgb(61, 215, 130);
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    /* TEXTO */
+    color: black;
+    font-size: 30px;
+    margin: 0px 50px 100px 50px;
+    
+}
+/* ICONE OU DESIGN DA CAIXA DA BIO*/
+.bio6 img{
+    display: flex;
+    align-items: start;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width:400px) {
+    .titulo text{
+        display: none;
+    };
+    
+}
