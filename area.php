@@ -20,36 +20,35 @@
             <div class="bio1">
                 <img src="icons/icon_skill.png">
                 <label>SKILL 1</label>
-                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE. PODENDO SER QUALQUER SKILL</text>
+                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE.</text>
             </div>
-
 
             <!-- APENAS PARA TEST DE QUANTIDADE -->
             <!-- DEPOIS LANÇAR UM WHILE TRAZENDO UM CARD COLORIDO PARA CADA SKILL E UM ICONE TAMBÉM -->
             <div class="bio2">
                 <img src="icons/icon_skill.png">
                 <label>SKILL 1</label>
-                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE. PODENDO SER QUALQUER SKILL</text>
+                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE.</text>
             </div>
             <div class="bio3">
                 <img src="icons/icon_skill.png">
                 <label>SKILL 1</label>
-                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE. PODENDO SER QUALQUER SKILL</text>
+                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE.</text>
             </div>
             <div class="bio4">
                 <img src="icons/icon_skill.png">
                 <label>SKILL 1</label>
-                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE. PODENDO SER QUALQUER SKILL</text>
+                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE.</text>
             </div>
             <div class="bio5">
                 <img src="icons/icon_skill.png">
                 <label>SKILL 1</label>
-                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE. PODENDO SER QUALQUER SKILL</text>
+                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE.</text>
             </div>
             <div class="bio6">
                 <img src="icons/icon_skill.png">
                 <label>SKILL 1</label>
-                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE. PODENDO SER QUALQUER SKILL</text>
+                <text name='skill'>TEXTO PARA COLOCAR TODAS AS SKILLS DO PARTICIPANTE.</text>
             </div>
     </div>
 
