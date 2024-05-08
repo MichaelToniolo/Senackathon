@@ -20,16 +20,16 @@
         <div class="titulo"><b>1º SENACKATHON</b><text>_</text></div>
 
             <div id="myLinks">
-                <a href="#news">News</a>
-                <a href="#contact">Contact</a>
-                <a href="#about">About</a>
+                <a href="regulamento.html">Regulamento</a>
+                <a href="#perfil">Perfil</a>
+                <a href="#sobre">Sobre o Hackathon</a>
             </div>
             <a href="javascript:void(0);" class="icon" onclick="myFunction()" >
                 <i class="fa fa-bars"></i>
             </a>
         </div>
 
-        <div class="titulo"><b>Partner's Skills</b><text>_</text></div>
+        <div class="titulo"><b>Skills do Participante</b><text>_</text></div>
         <div class="bio-container">
             <div class="bio1">
                 <img src="icons/icon_skill.png">
@@ -74,6 +74,8 @@
                 } else {
                     x.style.display = "block";
                 }
+                // var zzz = document.getElementById('fa fa-bars');
+                // if(zzz.style.)
             }
         </script>
 

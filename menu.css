@@ -1,10 +1,14 @@
 
 .topnav {
     overflow: hidden;
-    background-color: rgb(24, 24, 24);
+    background-color: rgb(24,24,24);
     position: relative;
+    border-radius: 5px;
   }
-  
+  #myLinks{
+    background-color: #494949;
+    border-radius: 5px;
+  }
   .topnav #myLinks {
     display: none;
   }
@@ -13,12 +17,13 @@
     color: white;
     padding: 10px 12px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
+    font-family: zuma;
     display: block;
   }
   
   .topnav a.icon {
-    background: Rgb(24, 24, 24);
+    background: rgb(24, 24, 24);
     display: block;
     position: absolute;
     right: 0;
@@ -26,11 +31,12 @@
   }
   
   .topnav a:hover {
-    background-color: #3b3b3b;
-    color: black;
+    background-color: #747474;
+    border-radius: 5px;
+    color: rgb(56, 56, 56);
   }
   
-  .active {
-    background-color: #04AA6D;
-    color: rgb(189, 189, 189);
-  }
+    .active {
+      background-color: #fdfdfd;
+      color: rgb(189, 189, 189);
+    }
